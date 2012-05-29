@@ -1,0 +1,6 @@
+[submodule "src/NetBricks"]
+	path = src/NetBricks
+	url = git@github.com:finalclass/NetBricks.git
+[submodule "src/NetCore"]
+	path = src/NetCore
+	url = git@github.com:finalclass/NetCore.git
